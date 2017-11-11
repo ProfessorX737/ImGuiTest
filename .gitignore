@@ -1,0 +1,7 @@
+# ignore everything
+*
+
+# except for these ones
+!.gitignore
+!ImGuiTest/
+!ImGuiTest/*
