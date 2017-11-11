@@ -6,3 +6,6 @@
 !.gitignore
 !ImGuiTest/
 !ImGuiTest/*
+
+# but this for vs project
+ImGuiTest/ImGuiTest/*
